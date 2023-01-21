@@ -15,7 +15,7 @@
   },
   "private": true,
   "dependencies": {
-    "@headlessui/react": "^1.7.5",
+    "@headlessui/react": "^1.7.7",
     "@heroicons/react": "^2.0.13",
     "commander": "^9.4.1",
     "core-js": "^3.6.5",
